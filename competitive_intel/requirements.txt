@@ -1,0 +1,22 @@
+langchain
+langchain-groq
+langchain-community
+langgraph
+langsmith
+chromadb
+langchain-chroma
+langchain-tavily
+streamlit
+python-dotenv
+pydantic
+reportlab
+pypdf
+pandas
+langchain-text-splitters
+torchvision
+langchain-huggingface
+
+# ── Production RAG upgrades ──────────────
+sentence-transformers   # embeddings + cross-encoder reranker
+rank-bm25              # BM25 keyword search (hybrid retrieval)
+ragas                  # RAG evaluation (faithfulness, relevance)
